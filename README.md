@@ -6,12 +6,12 @@ I’m Iwuanyanwu Joshua Chukwuemeka, a freelance Full-Stack JavaScript Developer
 
 **Since April 2021, I’ve delivered full-stack systems across:**
 <p align="left">
-  <img alt="My deliveries - SAAS Utilities" title="My deliveries - SAAS Utilities" src="https://custom-icon-badges.demolab.com/badge/-SAAS%20Utilities-%23E05D44?style=for-the-badge&logo=workflow&logoColor=white" />
-  <img alt="My deliveries - Admin Dashboards" title="My deliveries - Admin Dashboards" src="https://custom-icon-badges.demolab.com/badge/-Admin%20Dashboards-teal?style=for-the-badge&logo=computer&logoColor=white" />
-  <img alt="My deliveries - CRM-style platforms" title="My deliveries - CRM-style platforms" src="https://custom-icon-badges.demolab.com/badge/-CRM%20Style%20Platforms-92b302?style=for-the-badge&logo=people&logoColor=white" />
-  <img alt="My deliveries - Content publishing platforms" title="My deliveries - Content publishing platforms" src="https://custom-icon-badges.demolab.com/badge/-Content%20Publishing%20Platforms-7404b0?style=for-the-badge&logo=pen&logoColor=white" />
-  <img alt="My deliveries - Corporate websites" title="My deliveries - Corporate websites" src="https://custom-icon-badges.demolab.com/badge/-Corporate%20Websites-0ab004?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img alt="My deliveries - Authentication + API-driven applications" title="My deliveries - Authentication + API-driven applications" src="https://custom-icon-badges.demolab.com/badge/-Authentication%20+%20API%20Driven%20Applications-555755?style=for-the-badge&logo=lock&logoColor=white" />
+  <img alt="My deliveries - SAAS Utilities" title="My deliveries - SAAS Utilities" src="https://custom-icon-badges.demolab.com/badge/-SAAS%20Utilities-%23E05D44?style=for-the-badge&logo=workflow&logoColor=000000" /> 
+  <img alt="My deliveries - Admin Dashboards" title="My deliveries - Admin Dashboards" src="https://custom-icon-badges.demolab.com/badge/-Admin%20Dashboards-teal?style=for-the-badge&logo=computer&logoColor=000000" />
+  <img alt="My deliveries - CRM-style platforms" title="My deliveries - CRM-style platforms" src="https://custom-icon-badges.demolab.com/badge/-CRM%20Style%20Platforms-92b302?style=for-the-badge&logo=people&logoColor=000000" />
+  <img alt="My deliveries - Content publishing platforms" title="My deliveries - Content publishing platforms" src="https://custom-icon-badges.demolab.com/badge/-Content%20Publishing%20Platforms-7404b0?style=for-the-badge&logo=pen&logoColor=000000" />
+  <img alt="My deliveries - Corporate websites" title="My deliveries - Corporate websites" src="https://custom-icon-badges.demolab.com/badge/-Corporate%20Websites-0ab004?style=for-the-badge&logo=briefcase&logoColor=000000" />
+  <img alt="My deliveries - Authentication + API-driven applications" title="My deliveries - Authentication + API-driven applications" src="https://custom-icon-badges.demolab.com/badge/-Authentication%20+%20API%20Driven%20Applications-555755?style=for-the-badge&logo=lock&logoColor=000000" />
 </p>
 
 ----
